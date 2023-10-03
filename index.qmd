@@ -1,6 +1,27 @@
 ---
-title: ""
-author: ""
-date: ""
 format:
     revealjs
+---
+
+# Slide 1
+
+This is a blank Quarto Markdown file. You can write markdown code and regular text here, just like in an R Markdown file. Above is what's called the YAML frontmatter (between the "---"s). It is all the code that is required for this presentation to render. You can add other fields, after which it could look something like this:
+
+```
+---
+title: "Sweet Reveal.js Presentation"
+subtitle: "Made using Quarto Markdown"
+author: "Your name here"
+---
+```
+
+... and so on.
+
+# Slide 2
+
+You'll notice I'm declaring slides using the "#", just like how you would write a section header in an R Markdown file. In a Reveal.js presentation, these serve as slide titles and also demarcate the slides.
+
+For more, you can refer to the awesome guide published by Quarto here: [https://quarto.org/docs/presentations/revealjs/](https://quarto.org/docs/presentations/revealjs/). 
+
+To begin drafting your own presentation, delete everything in this file below the second "---" at the top.
+
