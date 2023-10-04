@@ -25,10 +25,12 @@
 ![](.images/copy.png)
 
 4. Make a project in RStudio that is linked to your repo:
+
   - Click on the projects menu in the top right corner and select "New Project", then "Version Control", then "Git".
   - The other two fields will fill automatically, but you can edit if you'd like to.
 
 5. Set up your Github repo to deploy your rendered presentation as a website. You can do this as follows:
+
   - Go to "Settings" in the top menu bar, near the green "code" button.
   - Click "Pages" in the left side-menu.
   - Click on The dropdown menu that says "none" and select "main".
