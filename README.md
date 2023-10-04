@@ -23,12 +23,12 @@ This repository is a template. It contains all the necessary files for creating 
 ![](.images/copy.png)
 
 4. Make a project in RStudio that is linked to your repo:
-  i. Click on the projects menu in the top right corner and select "New Project", then "Version Control", then "Git".
-  ii. The other two fields will fill automatically, but you can edit if you'd like to.
+  1. Click on the projects menu in the top right corner and select "New Project", then "Version Control", then "Git".
+  2. The other two fields will fill automatically, but you can edit if you'd like to.
 
 5. Set up your Github repo to deploy your rendered presentation as a website. You can do this as follows:
-  i. Go to "Settings" in the top menu bar, near the green "code" button.
-  ii. 
+  1. Go to "Settings" in the top menu bar, near the green "code" button.
+  2.  
 
 7. Edit your presentation. Every time you render "index.qmd" it will render or re-render "index.html" to the "docs" folder. Because you have set up Github pages for this repo, once those changes are committed and pushed to Github, your presentation-as-a-webpage will also update (sometimes it can take a few minutes for the changes to your webpage to be visible). 
 
