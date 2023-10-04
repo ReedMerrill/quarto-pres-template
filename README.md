@@ -1,8 +1,7 @@
 # Quarto Presentations on Github
 
 >A template and tutorial for making and deploying beautiful presentations using Quarto Markdown and Github.
-
-This repository is a template. It contains all the necessary files for creating a Quarto presentation that published using Github Pages.
+>This repository contains all the necessary files for creating a Quarto presentation that published using Github Pages.
 
 ## General Guidelines
 
